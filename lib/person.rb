@@ -1,11 +1,11 @@
 class Person 
   
-  def name = (persons_name)
-    @name = persons_name
+  def their_name = (persons_name)
+    @their_name = persons_name
   end
   
-  def name
-    @name
+  def their_name
+    @their_name
   end
   
 end 
